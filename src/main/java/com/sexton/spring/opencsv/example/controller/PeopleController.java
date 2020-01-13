@@ -1,10 +1,10 @@
-package com.sexton.example.controller;
+package com.sexton.spring.opencsv.example.controller;
 
-import com.sexton.example.dto.PeopleDTO;
-import com.sexton.example.exception.CsvSerializationException;
-import com.sexton.example.model.Person;
-import com.sexton.example.service.CsvBeanWriterService;
-import com.sexton.example.utility.ColumnPositionAndNameMappingStrategy;
+import com.sexton.spring.opencsv.example.dto.PeopleDTO;
+import com.sexton.spring.opencsv.example.exception.CsvSerializationException;
+import com.sexton.spring.opencsv.example.model.Person;
+import com.sexton.spring.opencsv.example.service.CsvBeanWriterService;
+import com.sexton.spring.opencsv.example.utility.ColumnPositionAndNameMappingStrategy;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

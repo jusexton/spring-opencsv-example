@@ -1,6 +1,6 @@
-package com.sexton.example.dto;
+package com.sexton.spring.opencsv.example.dto;
 
-import com.sexton.example.model.Person;
+import com.sexton.spring.opencsv.example.model.Person;
 
 import java.util.List;
 

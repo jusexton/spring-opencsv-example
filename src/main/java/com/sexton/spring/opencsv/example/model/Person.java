@@ -1,4 +1,4 @@
-package com.sexton.example.model;
+package com.sexton.spring.opencsv.example.model;
 
 import com.opencsv.bean.CsvBindByName;
 import com.opencsv.bean.CsvBindByPosition;

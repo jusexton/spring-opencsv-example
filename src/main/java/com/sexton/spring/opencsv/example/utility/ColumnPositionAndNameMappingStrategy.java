@@ -1,4 +1,4 @@
-package com.sexton.example.utility;
+package com.sexton.spring.opencsv.example.utility;
 
 import com.opencsv.bean.BeanField;
 import com.opencsv.bean.ColumnPositionMappingStrategy;

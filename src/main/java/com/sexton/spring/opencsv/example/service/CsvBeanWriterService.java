@@ -1,6 +1,6 @@
-package com.sexton.example.service;
+package com.sexton.spring.opencsv.example.service;
 
-import com.sexton.example.exception.CsvSerializationException;
+import com.sexton.spring.opencsv.example.exception.CsvSerializationException;
 import com.opencsv.CSVWriter;
 import com.opencsv.bean.MappingStrategy;
 import com.opencsv.bean.StatefulBeanToCsv;
